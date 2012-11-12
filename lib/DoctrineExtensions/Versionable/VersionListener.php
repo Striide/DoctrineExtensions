@@ -1,5 +1,5 @@
 <?php
-namespace Striide\DoctrineExtensions\Versionable;
+namespace DoctrineExtensions\Versionable;
 
 use Doctrine\Common\EventSubscriber,
     Doctrine\ORM\Events,

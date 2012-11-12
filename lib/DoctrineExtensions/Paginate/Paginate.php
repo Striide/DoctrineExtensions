@@ -1,6 +1,6 @@
 <?php
 
-namespace Striide\DoctrineExtensions\Paginate;
+namespace DoctrineExtensions\Paginate;
 use Doctrine\ORM\Query;
 
 class Paginate

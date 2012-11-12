@@ -11,7 +11,7 @@
  * to kontakt@beberlei.de so I can send you a copy immediately.
  */
 
-namespace Striide\DoctrineExtensions\PHPUnit;
+namespace DoctrineExtensions\PHPUnit;
 
 require_once "PHPUnit/Extensions/Database/ITester.php";
 

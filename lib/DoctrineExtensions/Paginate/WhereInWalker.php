@@ -16,7 +16,7 @@
  * @license     http://hobodave.com/license.txt New BSD License
  */
 
-namespace Striide\DoctrineExtensions\Paginate;
+namespace DoctrineExtensions\Paginate;
 
 use Doctrine\ORM\Query\TreeWalkerAdapter,
     Doctrine\ORM\Query\AST\SelectStatement,
