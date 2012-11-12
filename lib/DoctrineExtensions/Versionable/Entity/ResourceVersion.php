@@ -1,5 +1,5 @@
 <?php
-namespace DoctrineExtensions\Versionable\Entity;
+namespace Striide\DoctrineExtensions\Versionable\Entity;
 
 /**
  * @Entity

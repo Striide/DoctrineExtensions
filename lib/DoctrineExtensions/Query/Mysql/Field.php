@@ -12,7 +12,7 @@
  * to kontakt@beberlei.de so I can send you a copy immediately.
  */
 
-namespace DoctrineExtensions\Query\Mysql;
+namespace Striide\DoctrineExtensions\Query\Mysql;
 
 use Doctrine\ORM\Query\AST\Functions\FunctionNode,
     Doctrine\ORM\Query\Lexer;
@@ -32,7 +32,7 @@ use Doctrine\ORM\Query\AST\Functions\FunctionNode,
  * @version 2011.06.09
  */
 
-namespace DoctrineExtensions\Query\Mysql;
+namespace Striide\DoctrineExtensions\Query\Mysql;
 
 use Doctrine\ORM\Query\AST\Functions\FunctionNode;
 use Doctrine\ORM\Query\Lexer;

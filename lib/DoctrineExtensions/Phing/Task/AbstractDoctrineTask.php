@@ -11,7 +11,7 @@
  * to kontakt@beberlei.de so I can send you a copy immediately.
  */
 
-namespace DoctrineExtensions\Phing\Task;
+namespace Striide\DoctrineExtensions\Phing\Task;
 
 abstract class AbstractDoctrineTask extends \Task
 {

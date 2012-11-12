@@ -34,7 +34,7 @@
  * to kontakt@beberlei.de so I can send you a copy immediately.
  */
 
-namespace DoctrineExtensions\Query;
+namespace Striide\DoctrineExtensions\Query;
 
 use Doctrine\ORM\Query;
 

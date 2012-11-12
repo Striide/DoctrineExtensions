@@ -1,6 +1,6 @@
 <?php
 
-namespace DoctrineExtensions\Versionable;
+namespace Striide\DoctrineExtensions\Versionable;
 
 use DoctrineExtensions\PHPUnit\OrmTestCase;
 use DoctrineExtensions\PHPUnit\Event\EntityManagerEventArgs;

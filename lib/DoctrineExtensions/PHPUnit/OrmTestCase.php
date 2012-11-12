@@ -11,9 +11,9 @@
  * to kontakt@beberlei.de so I can send you a copy immediately.
  */
 
-namespace DoctrineExtensions\PHPUnit;
+namespace Striide\DoctrineExtensions\PHPUnit;
 
-use DoctrineExtensions\PHPUnit\Event\EntityManagerEventArgs;
+use Striide\DoctrineExtensions\PHPUnit\Event\EntityManagerEventArgs;
 
 abstract class OrmTestCase extends DatabaseTestCase
 {

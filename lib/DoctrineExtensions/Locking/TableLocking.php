@@ -11,7 +11,7 @@
  * to kontakt@beberlei.de so I can send you a copy immediately.
  */
 
-namespace DoctrineExtensions\Locking;
+namespace Striide\DoctrineExtensions\Locking;
 
 use Doctrine\Common\EventSubscriber,
     Doctrine\ORM\Events,

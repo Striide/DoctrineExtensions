@@ -11,7 +11,7 @@
  * to kontakt@beberlei.de so I can send you a copy immediately.
  */
 
-namespace DoctrineExtensions\PHPUnit;
+namespace Striide\DoctrineExtensions\PHPUnit;
 
 use Doctrine\DBAL\Schema\AbstractSchemaManager;
 

@@ -12,7 +12,7 @@
  * to kontakt@beberlei.de so I can send you a copy immediately.
  */
 
-namespace DoctrineExtensions\Types;
+namespace Striide\DoctrineExtensions\Types;
 
 require_once 'Zend/Date.php';
 

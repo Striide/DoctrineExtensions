@@ -15,7 +15,7 @@
  * @license     http://hobodave.com/license.txt New BSD License
  */
 
-namespace DoctrineExtensions\Paginate;
+namespace Striide\DoctrineExtensions\Paginate;
 
 use Doctrine\ORM\Query;
 

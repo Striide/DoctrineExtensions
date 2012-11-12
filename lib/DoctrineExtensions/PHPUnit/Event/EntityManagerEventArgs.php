@@ -11,7 +11,7 @@
  * to kontakt@beberlei.de so I can send you a copy immediately.
  */
 
-namespace DoctrineExtensions\PHPUnit\Event;
+namespace Striide\DoctrineExtensions\PHPUnit\Event;
 
 use \Doctrine\ORM\EntityManager,
     \Doctrine\Common\EventArgs;

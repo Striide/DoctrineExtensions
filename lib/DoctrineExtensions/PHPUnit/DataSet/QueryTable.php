@@ -11,7 +11,7 @@
  * to kontakt@beberlei.de so I can send you a copy immediately.
  */
 
-namespace DoctrineExtensions\PHPUnit\DataSet;
+namespace Striide\DoctrineExtensions\PHPUnit\DataSet;
 
 class QueryTable extends \PHPUnit_Extensions_Database_DataSet_QueryTable
 {

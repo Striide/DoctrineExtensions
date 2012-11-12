@@ -11,8 +11,8 @@
  * to kontakt@beberlei.de so I can send you a copy immediately.
  */
 
-namespace DoctrineExtensions\PHPUnit;
-use DoctrineExtensions\PHPUnit\Operations\Truncate;
+namespace Striide\DoctrineExtensions\PHPUnit;
+use Striide\DoctrineExtensions\PHPUnit\Operations\Truncate;
 
 require_once "PHPUnit/Extensions/Database/TestCase.php";
 require_once 'PHPUnit/Extensions/Database/DataSet/QueryDataSet.php';
