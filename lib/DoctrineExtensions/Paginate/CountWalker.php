@@ -12,7 +12,7 @@
  * to kontakt@beberlei.de so I can send you a copy immediately.
  */
 
-namespace Striide\DoctrineExtensions\Paginate;
+namespace DoctrineExtensions\Paginate;
 
 use Doctrine\ORM\Query\TreeWalkerAdapter,
     Doctrine\ORM\Query\AST\SelectStatement,

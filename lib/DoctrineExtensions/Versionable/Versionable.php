@@ -1,5 +1,5 @@
 <?php
-namespace Striide\DoctrineExtensions\Versionable;
+namespace DoctrineExtensions\Versionable;
 
 interface Versionable
 {

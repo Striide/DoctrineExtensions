@@ -11,7 +11,7 @@
  * to kontakt@beberlei.de so I can send you a copy immediately.
  */
 
-namespace Striide\DoctrineExtensions\Versionable;
+namespace DoctrineExtensions\Versionable;
 
 use Doctrine\ORM\EntityManager;
 use Doctrine\ORM\Mapping\ClassMetadata;

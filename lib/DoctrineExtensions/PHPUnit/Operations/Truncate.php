@@ -11,7 +11,7 @@
  * to kontakt@beberlei.de so I can send you a copy immediately.
  */
 
-namespace Striide\DoctrineExtensions\PHPUnit\Operations;
+namespace DoctrineExtensions\PHPUnit\Operations;
 
 use PHPUnit_Extensions_Database_Operation_IDatabaseOperation AS IDatabaseOperation;
 

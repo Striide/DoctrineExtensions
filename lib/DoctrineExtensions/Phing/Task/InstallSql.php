@@ -11,7 +11,7 @@
  * to kontakt@beberlei.de so I can send you a copy immediately.
  */
 
-namespace Striide\DoctrineExtensions\Phing\Task;
+namespace DoctrineExtensions\Phing\Task;
 
 require_once "AbstractDoctrineTask.php";
 

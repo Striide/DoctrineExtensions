@@ -1,6 +1,6 @@
 <?php
 
-namespace Striide\DoctrineExtensions\PHPUnit;
+namespace DoctrineExtensions\PHPUnit;
 
 require_once __DIR__."/../TestHelper.php";
 

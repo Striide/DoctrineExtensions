@@ -11,7 +11,7 @@
  * to kontakt@beberlei.de so I can send you a copy immediately.
  */
 
-namespace Striide\DoctrineExtensions\LargeCollections;
+namespace DoctrineExtensions\LargeCollections;
 
 use Doctrine\Common\Util\Debug;
 
